@@ -19,5 +19,5 @@ exclude:
   - name: PhpUnhandledExceptionInspection
   - name: All
     paths:
-      - project/tests
-      - project/vendor
+      - tests
+      - vendor
