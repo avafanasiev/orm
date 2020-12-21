@@ -1,0 +1,20 @@
+exclude:
+  - name: PhpComposerExtensionStubsInspection
+  - name: PhpUndefinedClassConstantInspection
+  - name: PhpUndefinedGotoLabelInspection
+  - name: PhpUndefinedNamespaceInspection
+  - name: PhpUndefinedFieldInspection
+  - name: PhpUndefinedClassInspection
+  - name: PhpUndefinedCallbackInspection
+  - name: PhpUndefinedMethodInspection
+  - name: PhpPossiblePolymorphicInvocationInspection
+  - name: PhpUndefinedVariableInspection
+  - name: PhpUndefinedConstantInspection
+  - name: PhpUndefinedFunctionInspection
+  - name: PhpDocMissingThrowsInspection
+  - name: PhpFullyQualifiedNameUsageInspection
+  - name: PhpUnhandledExceptionInspection
+  - name: All
+    paths:
+      - project/tests
+      - project/vendor
